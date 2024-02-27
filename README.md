@@ -13,11 +13,11 @@ Seja bem-vindo ao meu perfil! 👋 Sou uma estudante de Análise e Desenvolvimen
 
 ## Habilidades
 
-- **Linguagens de Programação:** Java, Python, C#
-- **Desenvolvimento Web:** HTML, CSS, JavaScript, React
-- **Banco de Dados:** MySQL, MongoDB
-- **Metodologias:** Scrum, Kanban
-- **Ferramentas:** Git, VS Code, Eclipse
+- **Linguagens de Programação:** 
+- **Desenvolvimento Web:** 
+- **Banco de Dados:** 
+- **Metodologias:** 
+- **Ferramentas:** 
 - *[Adicione outras habilidades relevantes]*
 
 ## Projetos Destacados
