@@ -37,7 +37,8 @@
 
 -----
 
-<img height="20" alt="Sims" src="https://github.com/Lorrane-Maria/Lorrane-Maria/blob/main/img/Sem_nome__4_x_3_cm_-removebg-preview.png?raw=true"/>Sobre mim:
+<img height="20" alt="Sims" src="https://github.com/Lorrane-Maria/Lorrane-Maria/blob/main/img/Sem_nome__4_x_3_cm_-removebg-preview.png?raw=true"/> 
+<p>Sobre mim: </p>
 
 <div align="justify">
 Minha jornada na tecnologia começou no curso de <a href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/" target="_black">Algoritmo</a> no site <a href="https://www.cursoemvideo.com/" target="_black">Curso em Vídeo</a>, com o professor Gustavo Guanabara, que recomendo fortemente. Esse curso despertou meu interesse e me motivou a seguir na área. Atualmente, estou iniciando um curso de <a href="https://www.cursoemvideo.com/curso/java-basico/" target="_black">Java</a>, também no Curso em Vídeo, além dos cursos oferecidos pela grade curricular da faculdade.
@@ -58,7 +59,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 <div align="justify">
 <p> 
 - :books: &nbsp; Adoro ler.<br />
-- :computer: &nbsp; Meus hobbies são leituras, filmes/series e jogos.<br />
+- :computer: &nbsp; Meus hobbies são leituras, filmes,series, animes e jogos.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 </p>
 </div>
@@ -146,7 +147,6 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 
 <br />
 <img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=Lorrane-Maria"/>
-<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
 <a href="https://stars.github.com/nominate/" target="_blank"><img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20useful&color=blue"/></a>
 <img alt="Lines of code" src="https://img.shields.io/badge/Somando--se%20os%20reposit%C3%B3rios%3A-%2B100%20mil%20linhas%20de%20c%C3%B3digo%20compartilhadas-blue?logo=GitHub"/>
 <br />
