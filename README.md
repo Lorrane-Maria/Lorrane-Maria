@@ -53,7 +53,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 <img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="Sims" src="https://github.com/Lorrane-Maria/Lorrane-Maria/blob/main/img/Sem_nome__4_x_3_cm_-removebg-preview.png?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
