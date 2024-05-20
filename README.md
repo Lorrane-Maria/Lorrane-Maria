@@ -144,58 +144,13 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
                                          |_____\___/|_|  |_|  \__,_|_| |_|\___|
                                                   
 ```
-                 
------
-<div>
-<table>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="mailto:joaopauloaramuni@gmail.com" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter2.png?raw=true" alt="github-footer2"/></a>
-</td>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img align="center" width="400px" height="120px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/githubfooter1.png?raw=true" alt="github-footer1"/></a>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
-</div>
 
 -----
 
 <div>
-<table align="center">
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-<tr>
-<td>
-<a href="https://github.com/joaopauloaramuni" target="_blank"><img src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/logo.png?raw=true" width="50px" height="50px"/></a>
-</td>
-<td>
-| Créditos: <a href="https://github.com/joaopauloaramuni" target="_blank">© 2024 Aramuni</a><br />
-| Última atualização: 13/03/2024
-</td>
-</tr>
-<tr>
- <td align="center" colspan="2"></td>
-</tr> 
-</table>
+
+Obrigado pela visita! Estou animada para conectar com outros profissionais e continuar minha jornada no mundo da tecnologia! 
+Sinta-se à vontade para me contatar para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia!
+
 </div>
 
------
-
-<img align="center" alt="Footer2" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gray&section=footer"/>
-
-<!---
-<div>
-<img align="center" alt="Footer" width="1200px" height="20px" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/footer-gray.gif?raw=true"/>
-</div>
--->
-
-<!-- Obrigado pela visita! --> Estou animada para conctar com outros profissionais e continuar imnha jornada no mundo da tecnologia! 
-Sinta-se à contade para me contatar para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia!
