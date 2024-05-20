@@ -58,7 +58,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 <div align="justify">
 <p> 
 - :books: &nbsp; Adoro ler.<br />
-- :computer: &nbsp; Meus hobbies são leituras, filmes,series, animes e jogos.<br />
+- :computer: &nbsp; Meus hobbies são filmes,series, animes e jogos.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 </p>
 </div>
@@ -91,7 +91,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lorrane-Maria&theme=github_dark"/>
+<img align="left" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Lorrane-Maria&theme=github_dark"/>
 <!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lorrane-Maria&theme=github_dark"/> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lorrane-Maria&theme=github_dark"/>
 <img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Lorrane-Maria&theme=github_dark"/>
