@@ -50,7 +50,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/dev.gif?raw=true" width="340px" height="520px"/>
+<img align="right" alt="Dash" src="https://github.com/Lorrane-Maria/Lorrane-Maria/blob/main/img/24a2e667a8986245397880e137710453.jpg?raw=true" width="340px" height="520px"/>
 </div>
 
 <img height="20" alt="Sims" src="https://github.com/Lorrane-Maria/Lorrane-Maria/blob/main/img/Sem_nome__4_x_3_cm_-removebg-preview.png?raw=true"/>Meus interesses pessoais:
