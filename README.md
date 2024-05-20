@@ -41,7 +41,11 @@
 
 <div align="justify">
 Minha jornada na tecnologia começou no curso de <a href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/" target="_black">Algoritmo</a> no site <a href="https://www.cursoemvideo.com/" target="_black">Curso em Vídeo</a>, com o professor Gustavo Guanabara, que recomendo fortemente. Esse curso despertou meu interesse e me motivou a seguir na área. Atualmente, estou iniciando um curso de <a href="https://www.cursoemvideo.com/curso/java-basico/" target="_black">Java</a>, também no Curso em Vídeo, além dos cursos oferecidos pela grade curricular da faculdade.
-Tenho um desejo contínuo de aprender um pouco de cada linguagem de programação, pois acredito que conhecimento nunca é demais. Estou em busca de oportunidades para inicar minha carreira, com um interesse especial na área de Front-end, sempre gostei do lado visual, o que o usuario vê, esse interesse começou em 2013, quando fiz meu primeiro curso de Web Desing no Senac.
+ 
+Tenho um desejo contínuo de aprender um pouco de cada linguagem de programação, pois acredito que conhecimento nunca é demais. 
+
+Estou em busca de oportunidades para inicar minha carreira, com um interesse especial na área de Front-end. Sempre gostei do lado visual, o que o usuario vê, esse interesse começou em 2013, quando fiz meu primeiro curso de Web Desing no Senac.
+
 Embora ainda não tenha experiencia profissonal, estou determinada a encontrar meu primeiro emprego na área de tecnologia. 
 </div>
 
