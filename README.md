@@ -107,7 +107,6 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 </details>
 </div>
 <div>
-<!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </div>
 <div>
@@ -137,15 +136,16 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 
 -----
 
-```text
-                                  _     
-   ___ _ __   __ _ _ __ _ __ ___ | |    
-  / _ \ '_ \ / _` | '__| '__/ _ \| |    
- |  __/ | | | (_| | |  | | | (_) | |___ 
-  \___|_| |_|\__,_|_|  |_|  \___/|_____|
-                                        
-```                                        
-
+ <div>
+  _                                    
+ | |    ___  _ __ _ __ __ _ _ __   ___ 
+ | |   / _ \| '__| '__/ _` | '_ \ / _ \
+ | |__| (_) | |  | | | (_| | | | |  __/
+ |_____\___/|_|  |_|  \__,_|_| |_|\___|
+                                                  
+ </div>
+                    
+-----
 <div>
 <table>
 <tr>
