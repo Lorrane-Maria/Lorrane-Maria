@@ -149,7 +149,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 
 <div>
 
-Obrigado pela visita! Estou animada para conectar com outros profissionais e continuar minha jornada no mundo da tecnologia! 
+Obrigada pela visita! Estou animada para conectar com outros profissionais e continuar minha jornada no mundo da tecnologia! 
 Sinta-se à vontade para me contatar para colaborações, oportunidades ou apenas para bater um papo sobre tecnologia!
 
 </div>
