@@ -136,15 +136,16 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 
 -----
 
-```text
+<div align="center">
+
   _                                    
  | |    ___  _ __ _ __ __ _ _ __   ___ 
  | |   / _ \| '__| '__/ _` | '_ \ / _ \
  | |__| (_) | |  | | | (_| | | | |  __/
  |_____\___/|_|  |_|  \__,_|_| |_|\___|
                                                   
- ```
-                    
+</div>
+                 
 -----
 <div>
 <table>
