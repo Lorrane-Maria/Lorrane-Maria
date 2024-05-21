@@ -98,31 +98,6 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 -----
 
 <div>
-    <div>
-        <details>
-            <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Deezer Data</summary>
-            <iframe title="Deezer Widget" src="https://widget.deezer.com/widget/dark/user/2292209888" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
-        </details>
-    </div>
-    <div>
-        <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-    </div>
-    <div>
-        <iframe title="Deezer Playlist" src="https://widget.deezer.com/widget/dark/playlist/123456789" width="200" height="270" frameborder="0" allowtransparency="true"></iframe> &nbsp; &nbsp; 
-        <iframe title="Deezer Recently Played" src="https://widget.deezer.com/widget/dark/track/123456789" width="200" height="270" frameborder="0" allowtransparency="true"></iframe>
-    </div>
-    <div>
-        <details>
-            <summary>:headphones: :guitar: :drum:</summary>
-            <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava</a>
-        </details>
-    </div>
-</div>
-
-
------
-
-<div>
 
 <a href="https://www.linkedin.com/in/lorrane-maria-5396b021b/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:lorranemaria57@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
