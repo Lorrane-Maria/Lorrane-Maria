@@ -58,7 +58,7 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 <div align="justify">
 <p> 
 - :books: &nbsp; Adoro ler.<br />
-- :computer: &nbsp; Meus hobbies são filmes,series, animes e jogos.<br />
+- :computer: &nbsp; Meus hobbies são filmes, series, animes e jogos.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 </p>
 </div>
