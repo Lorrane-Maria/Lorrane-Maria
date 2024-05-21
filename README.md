@@ -98,28 +98,27 @@ Estou em busca de oportunidades para inicar minha carreira, com um interesse esp
 -----
 
 <div>
-<div>
-<details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22lih5eniohc7dawfxohlo7wy" alt="Data Card for Spotify">
-</details>
+    <div>
+        <details>
+            <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Deezer Data</summary>
+            <iframe title="Deezer Widget" src="https://widget.deezer.com/widget/dark/user/2292209888" width="300" height="300" frameborder="0" allowtransparency="true"></iframe>
+        </details>
+    </div>
+    <div>
+        <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
+    </div>
+    <div>
+        <iframe title="Deezer Playlist" src="https://widget.deezer.com/widget/dark/playlist/123456789" width="200" height="270" frameborder="0" allowtransparency="true"></iframe> &nbsp; &nbsp; 
+        <iframe title="Deezer Recently Played" src="https://widget.deezer.com/widget/dark/track/123456789" width="200" height="270" frameborder="0" allowtransparency="true"></iframe>
+    </div>
+    <div>
+        <details>
+            <summary>:headphones: :guitar: :drum:</summary>
+            <a href="https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1">Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava</a>
+        </details>
+    </div>
 </div>
-<div>
-<a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
-</div>
-<div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=22lih5eniohc7dawfxohlo7wy&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=22lih5eniohc7dawfxohlo7wy&count=10"/>
-</div>
-<div>
-<details>
-<summary>:headphones: :guitar: :drum:</summary>
 
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
-</details>
-</div>
-</div>
 
 -----
 
